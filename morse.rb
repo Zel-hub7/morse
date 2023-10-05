@@ -24,6 +24,7 @@ class MorseCodeDecoder
     end
   end
 
+# Example from the requirement that will print some text.
   message = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
   decoded_message = MorseCodeDecoder.decode_message(message)
   puts decoded_message
