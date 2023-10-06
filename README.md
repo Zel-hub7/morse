@@ -115,7 +115,7 @@ To run tests after setting up the linters, run the following command:
 
 ## 👥 Pair member <a name="authors"></a>
 
-👤 **Zelalem**
+👤 **Zelalem Yohannes**
 
 - GitHub: [@githubhandle](https://github.com/Zel-hub7)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/zelalem-yohannes-40356a239/)
